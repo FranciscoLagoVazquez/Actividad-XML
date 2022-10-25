@@ -2,12 +2,14 @@
 <clientes>
   <cliente>
     <cod>CL099756</cod>
-    <nombre>Uxía López Martínez</nombre>
-    <dirección>Rúa San Clemente 2, 1ºC</dirección>
-    <teléfono>666897895</teléfono>
+    <nombre>Elizabeth Olsen</nombre>
+    <dirección>Rúa San Felipe 55, 1ºA</dirección>
+    <teléfono>665764576</teléfono>
   </cliente>
   <cliente>
-    … 
+  <cod>CL099756</cod>
+    <nombre>Aloy Perez</nombre>
+    <dirección>Rúa San Ignacio 45, 1ºC</dirección>
+    <teléfono>665764576</teléfono>
   </cliente>
-  … 
-</clientes>
+ </clientes>
