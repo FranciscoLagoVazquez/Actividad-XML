@@ -1,0 +1,35 @@
+<?xml version="1.1" encoding="utf-8"?>
+<venta
+  xmlns="file:///E:/LM/ejercicios%20XML/documento%20de%20ventas%20pasteleria.xml"
+  xmlns:cl="file:///E:/LM/ejercicios%20XML/Clientes%20pasteleria.xml"
+  xmlns:pr="file:///E:/LM/ejercicios%20XML/documento%20de%20ventas%20pasteleria.xml">
+<cl:clientes>
+  <cl:cliente>
+    <cl:cod>CL099756</cl:cod>
+    <cl:nombre>Elizabeth Olsen</cl:nombre>
+    <cl:dirección>Rúa San Felipe 55, 1ºA</cl:dirección>
+    <cl:teléfono>665764576</cl:teléfono>
+  </cl:cliente>
+  <cl:cliente>
+  <cl:cod>CL099756</cl:cod>
+    <cl:nombre>Aloy Perez</cl:nombre>
+    <cl:dirección>Rúa San Ignacio 45, 1ºC</cl:dirección>
+    <cl:teléfono>665764576</cl:teléfono>
+  </cl:cliente>
+ </cl:clientes>
+  <pr:productos>  
+    <pr:tarta>
+      <pr:cod>T00013</pr:cod>
+     <pr:descripción>Tarta de la abuela</pr:descripción>
+    </pr:tarta>
+    <pr:tarta>
+      <pr:cod>T01414</pr:cod>
+      <pr:descripción>Tarta de cafe</pr:descripción>
+     </pr:tarta>
+	 <pr:tarta>
+	  <pr:cod>T01314</pr:cod>
+      <pr:descripción>Tiramisu</pr:descripción>
+   </pr:tarta>
+</pr:productos> … 
+  <importe_total>52€</importe_total>
+</venta>

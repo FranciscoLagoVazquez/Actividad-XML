@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<productos>  
+<tarta>
+<cod>T00013</cod>
+<descripción>Tarta de la abuela</descripción>
+</tarta>
+<tarta>
+<cod>T01414</cod>
+<descripción>Tarta de cafe</descripción>
+</tarta>
+<cod>T01314</cod>
+<descripción>Tiramisu</descripción>
+</tarta>
+</productos>
